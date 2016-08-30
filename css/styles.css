@@ -1,0 +1,54 @@
+header{
+	background:#ccc;
+	border-bottom:2px solid #000;
+	padding:0;
+	margin:0;
+}
+header h1{
+	padding:15px;
+	margin:0;
+}
+.navbar-toggle{
+	position:absolute;
+	top:10px;
+	right:0;
+	z-index:2;
+	border-color:#000;
+	border-width:2px;
+}
+.navbar-toggle .icon-bar{
+	background:#000;
+}
+.navbar-nav > li > a{
+	text-align: center;
+	color:#000;
+	border-top:2px solid #333;
+	background:#fff;
+}
+.navbar-nav{
+	margin-bottom:0;
+}
+section{
+
+}
+#beef,#sushi,#chicken{
+	padding:15px;
+	background:#ccc;
+	margin-bottom:15px;
+}
+
+h3{
+	padding-bottom:15px;
+	font-size:1.5em;
+	display: block;
+}
+@media (min-width: 768px) {
+
+
+}
+@media (min-width: 992px) {
+
+}
+@media (min-width: 1200px) {
+
+}
