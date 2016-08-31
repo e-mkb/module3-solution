@@ -10,11 +10,12 @@ header h1{
 }
 .navbar-toggle{
 	position:absolute;
-	top:10px;
+	top:5px;
 	right:0;
 	z-index:2;
 	border-color:#000;
 	border-width:2px;
+	padding:4px;
 }
 .navbar-toggle .icon-bar{
 	background:#000;
