@@ -8,30 +8,7 @@ header h1{
 	padding:15px;
 	margin:0;
 }
-#nav-list{
-	margin-top:50px;
-}
-.navbar-toggle{
-	position:absolute;
-	top:5px;
-	right:0;
-	z-index:2;
-	border-color:#000;
-	border-width:2px;
-	padding:4px;
-}
-.navbar-toggle .icon-bar{
-	background:#000;
-}
-.navbar-nav > li > a{
-	text-align: center;
-	color:#000;
-	border-top:2px solid #333;
-	background:#fff;
-}
-.navbar-nav{
-	margin-bottom:0;
-}
+
 section{
 
 }
