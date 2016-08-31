@@ -9,9 +9,15 @@ header h1{
 	margin:0;
 }
 
-section{
-
+.navbar-toggle{
+	z-index:2;
+	border-color:#000;
+	border-width:2px;
 }
+.navbar-toggle .icon-bar{
+	background:#000;
+}
+
 #beef,#sushi,#chicken{
 	padding:15px;
 	background:#ccc;
