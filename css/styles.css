@@ -17,7 +17,15 @@ header h1{
 .navbar-toggle .icon-bar{
 	background:#000;
 }
-
+.navbar-nav > li > a{
+	text-align: center;
+	color:#000;
+	border-top:2px solid #333;
+	background:#fff;
+}
+.navbar-nav{
+	margin-bottom:0;
+}
 #beef,#sushi,#chicken{
 	padding:15px;
 	background:#ccc;
